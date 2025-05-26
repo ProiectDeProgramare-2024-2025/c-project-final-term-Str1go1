@@ -1,0 +1,10 @@
+TUD|5
+ALX|4
+TUD|4
+COT|1
+TUD|1
+TUD|1
+c|0
+POP|0
+TUD|0
+|0
